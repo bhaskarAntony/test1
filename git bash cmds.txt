@@ -1,0 +1,11 @@
+ hello world  
+
+
+git init - to initialize the empty git repo to our local folder
+git add . - this cmd is used to add all the files to commit (.)
+
+git cimmit 0m "all files" - here we need to commit all the files and give some comment 
+
+git remote origin add https://github.com/bhaskarAntony/test1.git  - here first time only we need to link our git repo and our folder so are using this one 
+
+git push -u origin master - this cmd is used to push all files to git repo after commit
